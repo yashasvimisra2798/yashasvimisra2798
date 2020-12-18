@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+  <img src= https://github.com/yashasvimisra2798/yashasvimisra2798/blob/main/yashasvi.gif>
+</p>
 
 <!--
 **yashasvimisra2798/yashasvimisra2798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
