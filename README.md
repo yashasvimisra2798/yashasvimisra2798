@@ -12,10 +12,10 @@
 )  ![image](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white
 )  ![image](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
-<p align= "center">
+<!-- <p align= "center">
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yashasvimisra2798&theme=graywhite" width="47.5%" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yashasvimisra2798&count_private=true&show_icons=true&hide=contribs&theme=graywhite" alt="the-coder-dude" width="47.5%" />
-<p/>
+<p/> -->
 
 <!--
 **yashasvimisra2798/yashasvimisra2798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
